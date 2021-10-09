@@ -1,6 +1,6 @@
 {
   "name": "@yangbo-cli-dev/utils",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "yangbo-cli-dev utils",
   "author": "yangboxun <865296493@qq.com>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "6a110010b25312752edcb69ded2c3c9100b82189"
+  "gitHead": "0919a82a4450d4a1c2b977879b7418be531dc897"
 }
